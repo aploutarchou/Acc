@@ -1,0 +1,13 @@
+Guid,AccountId,SuppliedName,SuppliedEmail,SuppliedPhone,SuppliedCompany,Type,Status,Reason,Origin,Subject,Priority,Description,IsEscalated,Comments,NEWFIELDCASE__c
+88cce119-1e92-4d54-bc49-94bce76dbd05,ce3164a0-ef61-45d1-b33e-08692bb60f64,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Phone,Sample Case 3: Cannot track our order.,Low,#N/A,false,#N/A,#N/A
+d558faba-0cdf-4f22-8203-92dbce106d5a,441d542a-796a-4d79-9f09-242d8998f9f8,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,#N/A,#N/A,Medium,#N/A,false,#N/A,#N/A
+5e806ab1-6c11-4acc-8640-c00c58ab397b,441d542a-796a-4d79-9f09-242d8998f9f8,#N/A,#N/A,#N/A,#N/A,#N/A,Closed,#N/A,#N/A,#N/A,Medium,#N/A,false,#N/A,#N/A
+72c89ece-3c22-4b4d-bd12-abcb189f3e05,d37646fd-0dbe-4e2c-b3f5-1ceb3f7303c8,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,Phone,Sample Case: Our Widgets have not been delivered.,High,#N/A,false,#N/A,#N/A
+34ad03e7-36ed-4de5-9884-d054cbef6b59,4c1c2c9b-ba45-440f-b059-1ce4911a4b56,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,#N/A,#N/A,Medium,#N/A,false,#N/A,#N/A
+925c164f-007f-4561-a74e-4b5881024d59,9a749629-0037-4b08-996f-d27d96db01d5,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,false,#N/A,#N/A
+62afa2a1-7c38-4b1f-9c90-3f3fcb4b08bb,296fdcec-f2f1-412c-a3d6-8eb03ca3e791,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,#N/A,#N/A,Medium,#N/A,false,#N/A,#N/A
+36965aaf-3a94-4da1-9475-190b559b6b85,836df058-ae0d-4a93-a17e-206f44698290,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,#N/A,#N/A,Medium,#N/A,false,#N/A,#N/A
+e92b12ff-8704-4275-95af-2f47a4ec0abd,5d5daefd-56cf-4c04-999d-515903073310,#N/A,#N/A,#N/A,#N/A,#N/A,On Hold,#N/A,Email,#N/A,Medium,#N/A,false,#N/A,#N/A
+29d7753c-d8f7-409b-8ce6-a07311c7e5d8,9e4ea007-2582-4a12-bc74-afb9a86ac1b2,#N/A,#N/A,#N/A,#N/A,#N/A,New,#N/A,Email,#N/A,Medium,#N/A,false,#N/A,#N/A
+341cc082-bb89-460c-87e1-e85f66d7cd20,c7e1cfae-279b-4470-a3c3-d11c46f8cb17,#N/A,#N/A,#N/A,#N/A,#N/A,Escalated,#N/A,#N/A,#N/A,Medium,#N/A,false,#N/A,#N/A
+77f5f597-c9a3-4e59-a619-ec012fb30345,ce3164a0-ef61-45d1-b33e-08692bb60f64,#N/A,#N/A,#N/A,#N/A,#N/A,New,Instructions not clear,Phone,Sample Case 2: The widgets we received are the wrong size.,High,#N/A,false,#N/A,#N/A
